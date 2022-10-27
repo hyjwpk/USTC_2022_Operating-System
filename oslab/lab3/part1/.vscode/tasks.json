@@ -1,0 +1,24 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++",
+            "command": "sh",
+            "args": [
+                "${cwd}/trace/run.sh"
+            ],
+            "options": {
+                "cwd": "${cwd}/trace"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        }
+    ],
+    "version": "2.0.0"
+}

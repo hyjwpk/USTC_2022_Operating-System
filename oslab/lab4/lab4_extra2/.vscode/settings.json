@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "memlib.h": "c",
+        "module.h": "c",
+        "init.h": "c",
+        "compiler.h": "c",
+        "compiler_types.h": "c",
+        "timeb.h": "c",
+        "types.h": "c",
+        "fat16.h": "c",
+        "stat.h": "c",
+        "cmath": "c"
+    }
+}
