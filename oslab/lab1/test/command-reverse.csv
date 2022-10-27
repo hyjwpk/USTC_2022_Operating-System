@@ -1,0 +1,15 @@
+﻿选出与功能相符的指令：显示工作目录,pwd,showdir,dirshow,pwk,ls,cd
+选出与功能相符的指令：显示目录下的文件,ls,sl,cd,list,lsdir,lf
+选出与功能相符的指令：切换工作目录,cd,cgdir,switch,sw,swdir,ls
+选出与功能相符的指令：移动,mv,rm,mf,rf,ls,cd
+选出与功能相符的指令：复制,cp,rm,rf,ls,cd,cf
+选出与功能相符的指令：删除,rm,rf,delete,kill,vim,del
+选出与功能相符的指令：创建文件夹,mkdir,rmdir,mk,make,rm,mkd
+选出与功能相符的指令：输出文件内容到屏幕,cat,dog,ps,screen,file,df
+选出与功能相符的指令：任务管理器,ps,sp,task,tp,pt,ts
+选出与功能相符的指令：执行shell脚本,sh,hs,rh,run,rsh,rs
+选出与功能相符的指令：结束进程,kill,shut,rm,rf,ls,close
+选出与功能相符的指令：压缩/解压,tar,tz,rm,cp,make,vim
+选出与功能相符的指令：管理软件包,apt,vim,gedit,ps,cat,sh
+选出与功能相符的指令：Ubuntu下文字编辑器,gedit,kate,git,ps,cat,screen
+选出与功能相符的指令：编译,make,gnu,git,ps,gedit,vim

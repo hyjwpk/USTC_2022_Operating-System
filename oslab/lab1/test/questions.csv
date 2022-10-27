@@ -1,0 +1,17 @@
+﻿在ls命令中，使用哪个参数显示隐藏文件？,-a,-h,-s,-v
+下列哪条命令可以返回上级目录？,cd ..,cd .,cd /,cd ./
+下列哪个路径代表当前目录？,.,..,/.,/..
+执行gcc test.c命令，输出的二进制文件名是什么？,a.out,test.out,test,test.exe
+下面哪个路径是根目录？,/,~/,#/,%/
+下面哪个路径是家目录？,~/,/,#/,%/
+"用户""ustc123""的家目录的绝对路径是什么？",/home/ustc123,/usr/ustc123,/usr/home/ustc123,/ustc123
+下列哪条命令能删除一个装了很多文件的目录ustc123及其中所有文件？,rm -rf ustc123,rm ustc123,del ustc123,del -rf ustc123
+下面哪条命令可以用于修改文件名？,mv,rn,cp,ps
+sudo命令的用途？,使用root用户执行命令,修改root用户权限,修改当前用户权限,设置当前用户为root用户
+使用哪条命令更新已安装的软件包？,sudo apt upgrade,sudo apt update,sudo apt todate,sudo apt renew
+使用哪条命令可以从软件源处检查更新？,sudo apt update,sudo apt upgrade,sudo apt todate,sudo apt renew
+使用哪条命令卸载软件包xxx？,sudo apt remove xxx,sudo apt uninstall xxx,sudo apt delete xxx,sudo apt del xxx
+使用哪条命令可以返回上次到访的目录？,cd -,cd ..,cd /,cd -l
+下列哪条命令不能运行名为a的可执行文件？（a和终端当前目录都在根目录下）,a,./a,/a,../a
+使用gcc编译.c文件，可以使用哪种特性？,指针,引用,类,标准库STL
+按哪个（些）键可以在Shell里自动补全？,Tab,Shift,Ctrl,↑↓

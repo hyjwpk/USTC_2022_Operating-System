@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "init.h": "c",
+        "module.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "paravirt_types.h": "c",
+        "fs.h": "c",
+        "pagemap.h": "c",
+        "vmstat.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}

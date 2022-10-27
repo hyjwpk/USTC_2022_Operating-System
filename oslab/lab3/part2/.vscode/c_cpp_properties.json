@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/src/linux-headers-5.13.0-40-generic/include",
+                "/usr/src/linux-headers-5.13.0-40-generic/arch/x86/include",
+                "/usr/src/linux-headers-5.13.0-40-generic/arch/x86/include/generated",
+                "/usr/src/linux-headers-5.13.0-40-generic/arch/x86/include/uapi",
+                "/usr/src/linux-headers-5.13.0-40-generic/arch/x86/include/generated/uapi",
+                "/usr/src/linux-headers-5.13.0-40-generic/include/uapi",
+                "/usr/src/linux-headers-5.13.0-40-generic/include/generated/uapi",
+                "/usr/src/linux-headers-5.13.0-40-generic/ubuntu/include"
+            ],
+            "defines": [
+                "__GNUC__",
+                "__KERNEL__",
+                "MODULE",
+                "CONFIG_MEMCG"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

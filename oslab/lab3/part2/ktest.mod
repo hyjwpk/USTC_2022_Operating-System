@@ -1,0 +1,2 @@
+/home/wangc/lab3/part2/ktest.o
+
